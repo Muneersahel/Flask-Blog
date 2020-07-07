@@ -13,6 +13,10 @@ h6 {
   color: #444444;
 }
 
+.danger{
+  color: red;
+}
+
 .bg-steel {
   background-color: #5f788a;
 }
