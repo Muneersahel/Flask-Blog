@@ -1,1 +1,0 @@
-web: gunicord run:app
